@@ -19,4 +19,5 @@
 - Parallelly learned about **JavaScript’s asynchronous nature** — Web APIs, callback stack, microtask queue, and event loop (through a YouTube video). 
 
 **Video Link**: https://www.youtube.com/watch?v=8zKuNo4ay8E&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=19
+
 **Link(s) to work**: https://github.com/shreevathsa06/small-boi-projects/blob/main/password-generator-js/src/script.js
