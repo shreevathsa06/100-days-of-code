@@ -21,3 +21,23 @@
 **Video Link**: https://www.youtube.com/watch?v=8zKuNo4ay8E&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=19
 
 **Link(s) to work**: https://github.com/shreevathsa06/small-boi-projects/blob/main/password-generator-js/src/script.js
+
+
+### Day 2: September 10, Wednesday  
+
+**Today's Progress**:  
+- Focused on **DOM manipulation and UI integration** in the Password Generator project.  
+- Reviewed:  
+  - DOM selectors (`querySelector`, `getElementById`)  
+  - Event listeners (`addEventListener("click", fn)`)  
+- Built:  
+  - An HTML form with input for password length, checkboxes for options, and a generate button  
+  - Displayed the generated password in a text field  
+  - Connected the JavaScript logic to DOM events
+    
+- Solved one DSA problem: **Maximum value at a given index in a bounded array**  
+
+**Thoughts**:  
+Integrating JS with the DOM made the project more interactive and real. It feels rewarding to see my code directly affecting the UI. Solving the DSA problem was a good brain exercise alongside project work.  
+
+**Link(s) to work**: https://github.com/shreevathsa06/small-boi-projects/tree/main/password-generator-js 
