@@ -41,3 +41,20 @@
 Integrating JS with the DOM made the project more interactive and real. It feels rewarding to see my code directly affecting the UI. Solving the DSA problem was a good brain exercise alongside project work.  
 
 **Link(s) to work**: https://github.com/shreevathsa06/small-boi-projects/tree/main/password-generator-js 
+
+
+### Day 3: September 11, Thursday  
+
+**Today's Progress**:  
+- Learned about the **Clipboard API** in JavaScript and implemented it in the Password Manager project.  
+- Added **error handling** to the project.  
+- Finished and polished the **Password Manager UI** with the help of Gemini.  
+- Solved **2 DSA questions**.  
+- https://leetcode.com/problems/koko-eating-bananas/description/
+- https://leetcode.com/problems/contains-duplicate/description/
+
+**Thoughts**:  
+Today felt like a milestone — integrating the Clipboard API and adding error handling made the project more user-friendly. Polishing the UI was satisfying and gave the project a complete look. Practicing DSA alongside helped keep my problem-solving sharp.  
+
+**Link(s) to work**: https://cryptic01.netlify.app/
+
