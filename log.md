@@ -58,3 +58,10 @@ Today felt like a milestone — integrating the Clipboard API and adding error h
 
 **Link(s) to work**: https://cryptic01.netlify.app/
 
+### Day 4: September 12, Friday
+
+**Today's Progress**: I strengthened my CSS skills by building a pomodoro timer from scratch. The timer was built using HTML, CSS, and JavaScript. I learned about functions like `setInterval()`, which was key to the timer's functionality.
+
+**Thoughts**: It was a great learning experience applying my skills to a practical project. The `setInterval()` function was a bit tricky at first, but I'm now confident in using it for timed events. I'm excited to continue applying my skills to more projects.
+
+**Link(s) to work**: https://github.com/shreevathsa06/pomodoro-timer
