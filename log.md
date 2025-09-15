@@ -65,3 +65,13 @@ Today felt like a milestone — integrating the Clipboard API and adding error h
 **Thoughts**: It was a great learning experience applying my skills to a practical project. The `setInterval()` function was a bit tricky at first, but I'm now confident in using it for timed events. I'm excited to continue applying my skills to more projects.
 
 **Link(s) to work**: https://github.com/shreevathsa06/pomodoro-timer
+
+
+### Day 5: September 15, Monday
+
+**Today's Progress**: I worked on strengthening my understanding of various binary search algorithms. I revisited and re-solved some questions I had completed earlier to solidify my grasp on different implementation patterns. Additionally, I did a deep dive into the `setTimeout()` function in JavaScript to understand its mechanics and common use cases.
+
+**Thoughts**: It was insightful to see how different binary search problems require subtle tweaks to the core algorithm. This practice helped me move beyond a basic understanding. Exploring `setTimeout()` provided a better understanding of asynchronous operations in JavaScript, which I know will be crucial for future projects.
+
+**Link(s) to work**:
+https://github.com/shreevathsa06/zero-to-fullstack/tree/main/03-javascript/08-setTimeout
