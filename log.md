@@ -75,3 +75,12 @@ Today felt like a milestone — integrating the Clipboard API and adding error h
 
 **Link(s) to work**:
 https://github.com/shreevathsa06/zero-to-fullstack/tree/main/03-javascript/08-setTimeout
+
+### Day 6: September 16, Tuesday
+
+**Today's Progress**: I dove into higher-order functions and the principles of functional programming in JavaScript. I learned how these concepts allow for writing reusable and modular code, which is essential for maintainable projects. I also worked on my problem-solving skills by tackling a LeetCode question and learning the fundamentals of the Bubble Sort algorithm.
+
+**Thoughts**: Understanding higher-order functions has been a significant breakthrough for me in writing cleaner, more expressive JavaScript. I'm excited to apply these new concepts to future projects. Learning Bubble Sort was a great introduction to sorting algorithms, and I'm eager to explore more efficient ones.
+
+**Link(s) to work**:
+https://github.com/shreevathsa06/zero-to-fullstack/tree/main/03-javascript/09-Higher-order-functions
