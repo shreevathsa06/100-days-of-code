@@ -84,3 +84,10 @@ https://github.com/shreevathsa06/zero-to-fullstack/tree/main/03-javascript/08-se
 
 **Link(s) to work**:
 https://github.com/shreevathsa06/zero-to-fullstack/tree/main/03-javascript/09-Higher-order-functions
+
+
+### Day 7: September 17, Wednesday
+
+**Today's Progress**: I expanded my knowledge of sorting algorithms by learning about **Selection Sort**. I also worked on my problem-solving skills by completing a few sorting-related questions on LeetCode. On the JavaScript front, I got a basic understanding of higher-order array functions, specifically `map`, `filter`, and `reduce`.
+
+**Thoughts**: Understanding the basics of different sorting algorithms is crucial for problem-solving. It was interesting to see the time complexity and how it compares to other sorts I've learned. The `map`, `filter`, and `reduce` functions are incredibly powerful, and I'm excited to use them to write more concise and clean code.
