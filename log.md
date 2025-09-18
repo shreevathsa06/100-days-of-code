@@ -91,3 +91,13 @@ https://github.com/shreevathsa06/zero-to-fullstack/tree/main/03-javascript/09-Hi
 **Today's Progress**: I expanded my knowledge of sorting algorithms by learning about **Selection Sort**. I also worked on my problem-solving skills by completing a few sorting-related questions on LeetCode. On the JavaScript front, I got a basic understanding of higher-order array functions, specifically `map`, `filter`, and `reduce`.
 
 **Thoughts**: Understanding the basics of different sorting algorithms is crucial for problem-solving. It was interesting to see the time complexity and how it compares to other sorts I've learned. The `map`, `filter`, and `reduce` functions are incredibly powerful, and I'm excited to use them to write more concise and clean code.
+
+
+### Day 8: September 18, Thursday
+
+**Today's Progress**: I worked on my problem-solving skills by completing two LeetCode questions. I also expanded my knowledge of sorting algorithms by learning about **Insertion Sort** and implemented a working version of it in Java. To further my JavaScript skills, I did a deep dive into the `reduce()` array function, reading documentation and practicing with various use cases to get a better grasp of its full potential.
+
+**Thoughts**: Implementing Insertion Sort in Java was a great way to reinforce my understanding of both the language and the algorithm's logic. Exploring the `reduce()` function has opened my eyes to how powerful and versatile it is for manipulating arrays in a clean, functional way. I feel confident in my ability to use it for more complex tasks now.
+
+**Link(s) to work**:
+https://github.com/shreevathsa06/zero-to-fullstack/tree/main/03-javascript/10-map-filter-reduce
