@@ -101,3 +101,16 @@ https://github.com/shreevathsa06/zero-to-fullstack/tree/main/03-javascript/09-Hi
 
 **Link(s) to work**:
 https://github.com/shreevathsa06/zero-to-fullstack/tree/main/03-javascript/10-map-filter-reduce
+
+
+### Day 9: September 19, Friday
+
+**Today's Progress**: I learned about the **Cyclic Sort** algorithm and applied my knowledge by solving four LeetCode questions that utilize this sorting pattern. I also began my journey into the backend by learning about how an **HTTP server** works from first principles, gaining a foundational understanding of client-server communication.
+Solved 4 Leetcode questions on Cyclic sort:
+https://leetcode.com/problems/missing-number/description/
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+https://leetcode.com/problems/find-the-duplicate-number/description/
+https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+
+**Thoughts**: The Cyclic Sort algorithm was a fascinating new pattern to learn for specific types of problems. Transitioning to backend development and understanding how the web truly works under the hood is both challenging and incredibly rewarding. Learning from first principles provides a solid foundation that will be invaluable going forward.
+
