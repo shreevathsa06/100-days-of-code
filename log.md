@@ -114,3 +114,10 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 
 **Thoughts**: The Cyclic Sort algorithm was a fascinating new pattern to learn for specific types of problems. Transitioning to backend development and understanding how the web truly works under the hood is both challenging and incredibly rewarding. Learning from first principles provides a solid foundation that will be invaluable going forward.
 
+### Day 10: September 20, Saturday
+
+**Today's Progress**: I completed a video series on HTTP backend fundamentals, which helped solidify my understanding of how servers operate and handle requests from a first-principles perspective. I also continued to sharpen my problem-solving skills by tackling two Data Structures and Algorithms (DSA) questions. To round out the day, I dedicated time to reading JavaScript documentation on MDN to deepen my knowledge of core language features.
+
+**Thoughts**: Learning the backend concepts from the ground up has provided a new level of appreciation for web development. It's rewarding to see how the frontend and backend connect. The combination of focused practice on DSA and consistent documentation reading is proving to be an effective strategy for growth.
+
+
