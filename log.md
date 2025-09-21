@@ -121,3 +121,8 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 **Thoughts**: Learning the backend concepts from the ground up has provided a new level of appreciation for web development. It's rewarding to see how the frontend and backend connect. The combination of focused practice on DSA and consistent documentation reading is proving to be an effective strategy for growth.
 
 
+### Day 11: September 21, Sunday
+
+**Today's Progress**: I continued my Data Structures and Algorithms practice by solving two questions focused on sorting. I also dedicated time to solidifying my front-end fundamentals with a few short exercises on HTML and CSS. A significant part of my day was spent learning about **responsive design** through freeCodeCamp, understanding the importance of making websites accessible on all devices.
+
+**Thoughts**: While it felt like a slower day, I'm reminding myself that consistency is more important than intensity. Even small, focused practice sessions on topics like sorting and responsive design are crucial for building a solid foundation. The goal is to keep the momentum going, and today was successful in that regard.
