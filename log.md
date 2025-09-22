@@ -126,3 +126,9 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 **Today's Progress**: I continued my Data Structures and Algorithms practice by solving two questions focused on sorting. I also dedicated time to solidifying my front-end fundamentals with a few short exercises on HTML and CSS. A significant part of my day was spent learning about **responsive design** through freeCodeCamp, understanding the importance of making websites accessible on all devices.
 
 **Thoughts**: While it felt like a slower day, I'm reminding myself that consistency is more important than intensity. Even small, focused practice sessions on topics like sorting and responsive design are crucial for building a solid foundation. The goal is to keep the momentum going, and today was successful in that regard.
+
+### Day 12: September 22, Monday
+
+**Today's Progress**: I continued my streak of problem-solving by completing two more LeetCode questions focused on sorting algorithms. I also officially started my **Habit Tracker project**, building out the basic UI using HTML and CSS. I'm finding that styling is still a challenge for me, but I'm making progress. A significant step today was using AI to help me debug and understand my CSS, which proved to be a very helpful learning tool. I also took some time to review and practice my **Vim commands** to improve my efficiency in the terminal.
+
+**Thoughts**: The front-end is definitely a weak point for me right now. It's frustrating to struggle with styling, but it's also a great motivator to keep learning and practicing. The experience today taught me that asking for help (even from an AI) and understanding every line of code is a crucial part of the learning process. I'm determined to get better at understanding and applying front-end rules. Revisiting Vim commands was a good reminder that consistent practice on foundational skills is always valuable.
