@@ -132,3 +132,9 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 **Today's Progress**: I continued my streak of problem-solving by completing two more LeetCode questions focused on sorting algorithms. I also officially started my **Habit Tracker project**, building out the basic UI using HTML and CSS. I'm finding that styling is still a challenge for me, but I'm making progress. A significant step today was using AI to help me debug and understand my CSS, which proved to be a very helpful learning tool. I also took some time to review and practice my **Vim commands** to improve my efficiency in the terminal.
 
 **Thoughts**: The front-end is definitely a weak point for me right now. It's frustrating to struggle with styling, but it's also a great motivator to keep learning and practicing. The experience today taught me that asking for help (even from an AI) and understanding every line of code is a crucial part of the learning process. I'm determined to get better at understanding and applying front-end rules. Revisiting Vim commands was a good reminder that consistent practice on foundational skills is always valuable.
+
+### Day 13: September 24, Wednesday
+
+**Today's Progress**: I continued my streak of problem-solving by completing three more LeetCode questions. The primary focus of my day was on my habit tracker project, where I started building the core JavaScript logic. I worked on implementing the functionality that will handle adding, tracking, and displaying user habits, moving beyond just the static UI.
+
+**Thoughts**: Transitioning from the styling of the UI to the logical backend of the project has been an exciting and challenging step. It's incredibly satisfying to see the functionality take shape and know that my code is making the application work. This phase of the project is a great way to apply the JavaScript concepts I've been learning.
