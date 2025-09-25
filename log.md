@@ -138,3 +138,13 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 **Today's Progress**: I continued my streak of problem-solving by completing three more LeetCode questions. The primary focus of my day was on my habit tracker project, where I started building the core JavaScript logic. I worked on implementing the functionality that will handle adding, tracking, and displaying user habits, moving beyond just the static UI.
 
 **Thoughts**: Transitioning from the styling of the UI to the logical backend of the project has been an exciting and challenging step. It's incredibly satisfying to see the functionality take shape and know that my code is making the application work. This phase of the project is a great way to apply the JavaScript concepts I've been learning.
+
+### Day 14: September 25, Thursday
+
+**Today's Progress**: I maintained my coding streak by solving one Data Structures and Algorithms (DSA) question. The major accomplishment for the day, however, was finishing and publishing a comprehensive blog post detailing my learnings on how **HTTP servers work from first principles**. This involved consolidating my notes and structuring the information for clarity.
+
+**Thoughts**: Even though I didn't spend a huge amount of time coding today, I learned that teaching/writing about a topic is one of the best ways to solidify understanding. Publishing the blog post was a great way to close out my study on HTTP fundamentals. Consistent effort, even with just one DSA question, is better than skipping a day.
+
+**Link(s) to work**:
+Blog: https://vathsasblog.hashnode.dev/http-from-first-principles-a-guide-for-every-developer
+Dsa question: https://leetcode.com/problems/height-checker/submissions/1782600195/
