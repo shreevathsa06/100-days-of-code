@@ -148,3 +148,13 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 **Link(s) to work**:
 Blog: https://vathsasblog.hashnode.dev/http-from-first-principles-a-guide-for-every-developer
 Dsa question: https://leetcode.com/problems/height-checker/submissions/1782600195/
+
+### Day 15: September 26, Friday
+
+**Today's Progress**: I maintained my daily problem-solving routine by completing two LeetCode questions. I also continued dedicating time to my personal JavaScript project, focusing on building out and integrating new functionalities into the core logic. This involved debugging and refactoring some of the existing code to ensure it's modular.
+
+**Thoughts**: I feel like I'm moving too slowly with the project work, but I'm trying to remind myself that slow progress is still progress. Rushing often leads to sloppy code, so taking the time to truly understand the logic and implement it correctly is worth the extra time. The goal is completion and learning, not speed. I'll keep pushing for consistency.
+
+**Link(s) to work**:
+https://leetcode.com/problems/matrix-cells-in-distance-order/submissions/1783093144/
+https://leetcode.com/problems/relative-sort-array/submissions/1783111285/
