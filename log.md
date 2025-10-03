@@ -158,3 +158,12 @@ Dsa question: https://leetcode.com/problems/height-checker/submissions/178260019
 **Link(s) to work**:
 https://leetcode.com/problems/matrix-cells-in-distance-order/submissions/1783093144/
 https://leetcode.com/problems/relative-sort-array/submissions/1783111285/
+
+### Day 16: October 3, Friday
+
+**Today's Progress**: I completed and finalized the first minimum viable feature set for my **Habit Tracker project**. The core JavaScript logic and UI are now functional. I then transitioned back to formal learning, resuming my full-stack cohort and starting the React section. I spent time revising **React Hooks** (`useState`, `useEffect`, etc.) and experimenting extensively with React boilerplate code to gain hands-on familiarity with the project structure and component lifecycle.
+
+**Thoughts**: It feels fantastic to have a functional version of the habit tracker complete—it's a massive confidence booster! Moving back into React is exciting. The best way to learn it is by breaking things and seeing how they work, which is why experimenting with the boilerplate was so valuable today. I'm focusing on truly understanding the component model before moving on to complex features.
+
+**Link(s) to work**:
+https://github.com/shreevathsa06/habit-tracker-js
