@@ -167,3 +167,10 @@ https://leetcode.com/problems/relative-sort-array/submissions/1783111285/
 
 **Link(s) to work**:
 https://github.com/shreevathsa06/habit-tracker-js
+
+### Day 17: October 4, Saturday
+
+**Today's Progress**: I focused on advanced React concepts, gaining a solid understanding of **reconciliation** and how the Virtual DOM works. I practiced code examples for advanced React Hooks, including `useEffect`, `useMemo`, `useCallback`, and `useRef`. I heavily utilized ChatGPT to provide visual and conceptual examples, which greatly aided my learning. I also dedicated a significant amount of time to configuring a new **NeoVim** setup, learning various Vim/Nvim commands and optimizing my editor workflow.
+
+**Thoughts**: While I didn't write much production code, this was a high-value day. Understanding React's core mechanisms (like reconciliation) is critical for writing performant applications. The time spent on configuring NeoVim is an investment in my long-term coding efficiency—it's frustrating at first, but the payoff will be huge. Feeling good about combining deep learning with tool mastery.
+
