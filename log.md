@@ -180,4 +180,10 @@ https://github.com/shreevathsa06/habit-tracker-js
 
 **Thoughts**: The `useMemo` hook is a great tool, but it's clear that it should be used judiciously to avoid unnecessary complexity. Spending time on conceptual questions today was extremely valuable; it moved me past just knowing *how* to use a hook to understanding *why* it works and when it's appropriate. Feeling much more confident in my React fundamentals.
 
+### Day 19: October 6, Monday
+
+**Today's Progress**: I balanced my day between algorithm practice and React framework study. I solved a couple of easy-level LeetCode questions focused on sorting algorithms to reinforce my DSA fundamentals. I also dedicated a significant portion of my time to working through the cohort assignments on the **`useCallback` hook** in React, focusing on correctly memoizing functions to prevent unnecessary re-renders in child components.
+
+**Thoughts**: The `useCallback` hook, along with `useMemo`, is crucial for writing highly optimized React code, and the assignments helped solidify my understanding of when and why to use it. It's a great feeling to see the concepts move from theoretical knowledge to practical implementation. Consistent practice with algorithms ensures I don't lose that problem-solving edge while diving deep into frameworks.
+
 
