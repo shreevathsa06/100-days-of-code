@@ -187,3 +187,9 @@ https://github.com/shreevathsa06/habit-tracker-js
 **Thoughts**: The `useCallback` hook, along with `useMemo`, is crucial for writing highly optimized React code, and the assignments helped solidify my understanding of when and why to use it. It's a great feeling to see the concepts move from theoretical knowledge to practical implementation. Consistent practice with algorithms ensures I don't lose that problem-solving edge while diving deep into frameworks.
 
 
+### Day 20: October 7, Tuesday
+
+**Today's Progress**: Today was focused entirely on advancing my proficiency in React Hooks. I successfully completed all remaining cohort assignments related to the various hooks, marking a major milestone in that section of my course. I also dedicated a significant amount of time to documentation (MDN and official React docs), focusing on two key hooks: **`useRef`** for managing mutable values and DOM references, and the complex but powerful **`useReducer`** for advanced state management.
+
+**Thoughts**: Completing the hook assignments gives me a real sense of accomplishment. The `useReducer` hook is proving to be a challenge, but I understand its value for handling more complex state logic than `useState`. Reading the documentation on `useRef` clarified its use cases beyond just accessing the DOM. I'm now feeling well-equipped to manage state and side effects in almost any React application.
+
