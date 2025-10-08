@@ -193,3 +193,8 @@ https://github.com/shreevathsa06/habit-tracker-js
 
 **Thoughts**: Completing the hook assignments gives me a real sense of accomplishment. The `useReducer` hook is proving to be a challenge, but I understand its value for handling more complex state logic than `useState`. Reading the documentation on `useRef` clarified its use cases beyond just accessing the DOM. I'm now feeling well-equipped to manage state and side effects in almost any React application.
 
+### Day 21: October 8, Wednesday
+
+**Today's Progress**: I had a strong day in both DSA and web development. I solved three LeetCode questions focusing on sorting and, in the process, learned about and implemented **Custom Comparators in Java** to define unique sorting logic. On the development side, I covered major React concepts in my cohort: learning about client-side **Routing**, understanding the issues caused by **Prop Drilling**, and being introduced to the **Context API** as a global state management solution. I spent a significant amount of time coding examples and experimenting with these concepts.
+
+**Thoughts**: Learning Custom Comparators in Java opens up so many possibilities for problem-solving that requires non-standard sorting. In React, the Context API immediately struck me as a necessary tool to manage state without falling into the trap of prop drilling. Coded examples really helped solidify the conceptual understanding of these powerful React features. Feeling ready to build more organized, large-scale applications.
