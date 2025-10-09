@@ -198,3 +198,12 @@ https://github.com/shreevathsa06/habit-tracker-js
 **Today's Progress**: I had a strong day in both DSA and web development. I solved three LeetCode questions focusing on sorting and, in the process, learned about and implemented **Custom Comparators in Java** to define unique sorting logic. On the development side, I covered major React concepts in my cohort: learning about client-side **Routing**, understanding the issues caused by **Prop Drilling**, and being introduced to the **Context API** as a global state management solution. I spent a significant amount of time coding examples and experimenting with these concepts.
 
 **Thoughts**: Learning Custom Comparators in Java opens up so many possibilities for problem-solving that requires non-standard sorting. In React, the Context API immediately struck me as a necessary tool to manage state without falling into the trap of prop drilling. Coded examples really helped solidify the conceptual understanding of these powerful React features. Feeling ready to build more organized, large-scale applications.
+
+### Day 22: October 9, Thursday
+
+**Today's Progress**: Due to ongoing mid-semester exams, I kept the coding effort minimal today to focus on studies. I managed to solve one easy-level LeetCode question, ensuring that I maintain my daily streak without significant time investment.
+
+**Thoughts**: It's challenging to balance the coding commitment with academic exams, but I'm proud that I managed to get at least one task done. The goal of the #100DaysOfCode challenge is consistency, and even one solved problem is a win. I look forward to getting back to deeper development work once the exams are over.
+
+**Link(s) to work**:
+https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/submissions/1796407345/
